@@ -1,8 +1,7 @@
 # 04-Python-Core
 
-Almost every program uses data. Organizing, managing and storing data is important as it enables easier access and efficient modifications. `Data Structures` allow you to store and manage your data.[^1]
+Python is a high-level programming language, with applications in numerous areas, including web programming, scripting, scientific computing, and artificial intelligence![^1]
 
-Python has a number of `built-in` data structures:
 1. [x] Basic Concepts
 2. [x] Strings & Variables
 3. [x] Control Structures

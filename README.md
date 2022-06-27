@@ -1,8 +1,7 @@
-# 04-Python-Core
+### [Go to Home Page](https://github.com/celik-muhammed)
 
 Python is a high-level programming language, with applications in numerous areas, including web programming, scripting, scientific computing, and artificial intelligence![^1]
 
-00. [ ] [Go to Main Page - 00-Index-of-GitHub-Public-Projects-Repository-Logs](https://github.com/celik-muhammed/00-Index-of-GitHub-Public-Projects-Repository-Logs)
 1. [x] [01-Basic-Concepts](01-Basic-Concepts)
 2. [x] [02-Strings-&-Variables](02-Strings-&-Variables)
 3. [x] [03-Control-Structures](03-Control-Structures)
